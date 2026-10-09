@@ -1,0 +1,6 @@
+# 第 8 ~ 11 章练习所需（原 .venv1，Python 3.12.6）
+numpy==2.5.3
+pytest==9.1.1
+
+# 外星人入侵项目所需（原 .venv2，Python 3.12.6）
+pygame==2.6.1

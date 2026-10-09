@@ -1,0 +1,25 @@
+# ---- 虚拟环境（不提交） ----
+.venv/
+.venv1/
+.venv2/
+venv/
+env/
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- 测试缓存 ----
+.pytest_cache/
+.cache/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# ---- 脚本运行时生成的数据文件 ----
+numbers.json
+username.json
